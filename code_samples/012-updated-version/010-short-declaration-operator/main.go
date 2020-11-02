@@ -9,6 +9,6 @@ func main() {
 	fmt.Println(x)
 	y := 100 + 70
 	fmt.Println(y)
-	z := "Bond, James"
+	z := "Knowles, Beyonce"
 	fmt.Println(z)
 }
