@@ -7,7 +7,7 @@ import (
 // DECLARE the variable "y"
 // ASSIGN the value 43
 // declare & assign = initilization
-var y = 43
+var d = 35
 
 // DECLARE there is a VARIABLE with the IDENTIFIER "z"
 // and that the VARIABLE with the IDENTIFIER "z" is of TYPE int
@@ -22,7 +22,7 @@ func main() {
 	x := 42
 	fmt.Println(x)
 
-	fmt.Println(y)
+	fmt.Println(d)
 
 	foo()
 
@@ -30,5 +30,5 @@ func main() {
 }
 
 func foo() {
-	fmt.Println("again:", y)
+	fmt.Println("again:", d)
 }
